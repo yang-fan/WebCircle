@@ -6,4 +6,5 @@
       "express": "2.5.2"
     , "jade": ">= 0.0.1"
   }
+  ,main : "app.js"
 }
